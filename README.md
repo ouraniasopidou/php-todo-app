@@ -12,7 +12,7 @@ A todo list app built with PHP and SQL Server. My first PHP project.
 - Laragon
 
 ## Setup
-1. Create the database in SQL Server Management Studio
+1. Create the database in SQL Server Management Studio 
 2. Copy the project to `C:\laragon\www\`
 3. Open `http://localhost/todo-app-v2/` in your browser
 
