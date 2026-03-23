@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Todo App
+# php-todo-app
 
 A todo list app built with PHP and SQL Server. My first PHP project.
 
@@ -21,7 +20,6 @@ A todo list app built with PHP and SQL Server. My first PHP project.
 - `index.php` - main page and all the PHP logic
 - `style.css` - all the styling
 - `config.php` - database connection
-=======
-# php-todo-app
-A simple todo list app built with PHP and SQL Server
->>>>>>> ea43459e1ed89232d3c29adfc8865973353f0b26
+
+
+
