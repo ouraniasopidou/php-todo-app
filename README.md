@@ -21,5 +21,9 @@ A todo list app built with PHP and SQL Server. My first PHP project.
 - `style.css` - all the styling
 - `config.php` - database connection
 
+## Screenshots
+![App](todo_app1.png)
+![App](todo_app2.png)
+
 
 
